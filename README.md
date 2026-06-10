@@ -85,11 +85,13 @@ Web platform recommending exercises and nutrition guidance for mothers.
 
 ---
 
-# ✍️ Dev Quote
+<!--
+# ✍️ Dev Quote 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+-->
 
 # 🔝 Top Contributed Repo
 
